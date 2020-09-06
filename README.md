@@ -4,7 +4,7 @@
 
 ## To view the project, These are the instructions
 
-## To run the project in the Backend
+## Backend
 ### Enter the perent folder of the project and install all the dependencies: npm install
 ### Create a .env file and add your mongodb database connection url and add a json web token secret(Any text: ex: "my name is mark") and add a port.
 
@@ -14,7 +14,7 @@
 #### PORT: 5000
 ### Lastly, run this command:  npm run dev  or  npm start
 
-## To run the project from the Frontend
+## Frontend
 ### Enter the client folder and install all the dependencies: npm install
 ### lastly, run this command: npm start
 
