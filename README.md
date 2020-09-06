@@ -8,9 +8,9 @@
 ### Create a .env file and add your mongodb database connection url and add a json web token secret(Any text: ex: "my name is mark") and add a port.
 
 ## This is an Example
-MONGODB_URL= dashboard.heroku.com/apps/mark-mern
-TOKEN_SECRET= my name is mark and I am a Web Developer
-PORT: 5000
+#### MONGODB_URL= dashboard.heroku.com/apps/mark-mern
+#### TOKEN_SECRET= my name is mark and I am a Web Developer
+#### PORT: 5000
 ### Lastly, run this command:  npm run dev / npm start
 
 ## To run the project from the Frontend
